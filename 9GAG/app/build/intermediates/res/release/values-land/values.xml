@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values-land/integers.xml -->
+    <eat-comment />
+
+    <integer name="column_count">2</integer>
+
+</resources>

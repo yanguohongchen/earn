@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <attr name="SwipeBackLayoutStyle" format="reference" />
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <color name="dark_blue">#25865E</color>
+    <color name="drawer_bg">#FFFFFFcc</color>
+    <color name="holo_blue_light">#3333b5e5</color>
+    <color name="holo_green_light">#3399cc00</color>
+    <color name="holo_orange_light">#33ffbb33</color>
+    <color name="holo_purple_light">#33aa66cc</color>
+    <color name="holo_red_light">#33ff4444</color>
+    <color name="light_blue">#7FC5B0</color>
+    <color name="light_yellow">#FFF6F7</color>
+    <color name="main_bg">#14439C</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="FoldingMenu">
+        <attr name="foldNumber" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="ProgressWheel">
+        <attr name="progress" format="string" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="barColor" format="color" />
+        <attr name="rimColor" format="color" />
+        <attr name="rimWidth" format="dimension" />
+        <attr name="spinSpeed" format="dimension" />
+        <attr name="delayMillis" format="integer" />
+        <attr name="circleColor" format="color" />
+        <attr name="barWidth" format="dimension" />
+        <attr name="barLength" format="dimension" />
+    </declare-styleable>
+    <!-- From: file:/home/sea/git/9GAG/app/build/intermediates/exploded-aar/9GAG.extras/ShimmerAndroid/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="ShimmerView">
+        <attr name="reflectionColor" format="color" />
+    </declare-styleable>
+    <!-- From: file:/home/sea/git/9GAG/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="StaggeredGridView">
+        <attr name="column_count" format="integer" />
+        <attr name="column_count_portrait" format="integer" />
+        <attr name="column_count_landscape" format="integer" />
+        <attr name="item_margin" format="dimension" />
+        <attr name="grid_paddingLeft" format="dimension" />
+        <attr name="grid_paddingRight" format="dimension" />
+        <attr name="grid_paddingTop" format="dimension" />
+        <attr name="grid_paddingBottom" format="dimension" />
+    </declare-styleable>
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="SwipeBackLayout">
+        <attr name="edge_size" format="dimension" />
+        <attr name="edge_flag">
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+            <enum name="bottom" value="2" />
+            <enum name="all" value="3" />
+        </attr>
+        <attr name="shadow_left" format="reference" />
+        <attr name="shadow_right" format="reference" />
+        <attr name="shadow_bottom" format="reference" />
+    </declare-styleable>
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/integers.xml -->
+    <eat-comment />
+
+    <integer name="column_count">1</integer>
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">9GAG</string>
+    <string name="donate_url">https://m.alipay.com/personal/payment.htm?reason=请我喝杯咖啡吧T_T&amp;amount=3&amp;account=zhangqi.dev@qq.com</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Loading Failed</string>
+    <string name="pref_app_des">全球有名的搞笑图片分享社区</string>
+    <string name="pref_key_version">pref_key_version</string>
+    <string name="pref_summary_dev">Developer</string>
+    <string name="pref_title_about">About</string>
+    <string name="pref_title_coder">stormzhang</string>
+    <string name="pref_title_donate">Donate</string>
+    <string name="pref_title_github">Github</string>
+    <string name="the_end">TheEnd</string>
+    <string name="view_big_image">View Image</string>
+    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="ActionbarOverFlowStyle" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_overflow</item>
+    </style>
+
+    <style name="ActionbarStyle" parent="android:Widget.Holo.ActionBar">
+        <item name="android:background">@color/main_bg</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_back_holo_light</item>
+        <item name="android:titleTextStyle">@style/ActionbarTitleTextStyle</item>
+    </style>
+
+    <style name="ActionbarTitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/main_bg</item>
+        <item name="android:actionBarStyle">@style/ActionbarStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/ActionbarOverFlowStyle</item>
+    </style>
+
+    <style name="SwipeBackLayout">
+        <item name="edge_size">50dip</item>
+        <item name="shadow_left">@drawable/shadow_left</item>
+        <item name="shadow_right">@drawable/shadow_right</item>
+        <item name="shadow_bottom">@drawable/shadow_bottom</item>
+    </style>
+
+    <style name="TranslucentTheme" parent="@style/AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+</resources>

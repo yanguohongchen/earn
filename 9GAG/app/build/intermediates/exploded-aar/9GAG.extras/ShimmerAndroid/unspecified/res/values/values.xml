@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="ShimmerView">
+        <attr name="reflectionColor" format="color" />
+    </declare-styleable>
+    <!-- From: file:/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Shimmer</string>
+
+</resources>

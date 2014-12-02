@@ -10,4 +10,4 @@
         android:layout_marginRight="12dp"
         android:layout_gravity="center"
         style="?android:attr/indeterminateProgressStyle" />
-</FrameLayout><!-- From: file:/home/sea/git/9GAG/app/src/main/res/layout/actionbar_refresh_progress.xml -->
+</FrameLayout><!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/layout/actionbar_refresh_progress.xml -->

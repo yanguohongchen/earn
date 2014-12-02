@@ -35,4 +35,3 @@ public class BitmapLruCache extends LruCache<String, Bitmap> implements ImageLoa
         put(url, bitmap);
     }
 }
-

@@ -5,6 +5,7 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.view.GravityCompat;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -113,13 +114,24 @@ public class MainActivity extends BaseActivity {
     }
 
     public void setCategory(Category category) {
-        mDrawerLayout.closeDrawer(GravityCompat.START);
-        if (mCategory == category) {
-            return;
+        //积分墙应用属于Earnmoney
+        if(category.getDisplayName().equals("Earnmoney")){
+            Log.d("i","Earnmoney");
+        }else{
+            mDrawerLayout.closeDrawer(GravityCompat.START);
+            if (mCategory == category) {
+                return;
+            }
+            mCategory = category;
+            setTitle(mCategory.getDisplayName());
+            mContentFragment = FeedsFragment.newInstance(category);
+            replaceFragment(R.id.content_frame, mContentFragment);
         }
-        mCategory = category;
-        setTitle(mCategory.getDisplayName());
-        mContentFragment = FeedsFragment.newInstance(category);
+    }
+
+
+    public void  intendEarnFragment(){
+
         replaceFragment(R.id.content_frame, mContentFragment);
     }
 }

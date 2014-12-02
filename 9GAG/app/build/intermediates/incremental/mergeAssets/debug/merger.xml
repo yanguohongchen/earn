@@ -2,19 +2,19 @@
 <merger version="2" >
 
     <dataSet config="1.0.1" >
-        <source path="/home/sea/git/9GAG/app/build/intermediates/exploded-aar/com.alexvasilkov/foldable-layout/1.0.1/assets" />
+        <source path="/home/sea/git/9gag/9GAG/app/build/intermediates/exploded-aar/com.alexvasilkov/foldable-layout/1.0.1/assets" />
     </dataSet>
     <dataSet config="unspecified" >
-        <source path="/home/sea/git/9GAG/app/build/intermediates/exploded-aar/9GAG.extras/ShimmerAndroid/unspecified/assets" />
+        <source path="/home/sea/git/9gag/9GAG/app/build/intermediates/exploded-aar/9GAG.extras/ShimmerAndroid/unspecified/assets" />
     </dataSet>
     <dataSet config="1.0.5" >
-        <source path="/home/sea/git/9GAG/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/assets" />
+        <source path="/home/sea/git/9gag/9GAG/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/assets" />
     </dataSet>
     <dataSet config="main" >
-        <source path="/home/sea/git/9GAG/app/src/main/assets" />
+        <source path="/home/sea/git/9gag/9GAG/app/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/sea/git/9GAG/app/src/debug/assets" />
+        <source path="/home/sea/git/9gag/9GAG/app/src/debug/assets" />
     </dataSet>
 
 </merger>

@@ -2,70 +2,76 @@
 <pre-dex-items>
 
     <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/classes-4618331f54a31a1d6a14aaa4e13bf61090aa2e01.jar"
-        jar="/home/sea/git/9GAG/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="8218789edb56bdcfff7da48e892b37460fc707e2"/>
-    <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-01e7241067d9211eef4cd626107aefbb9b6f9698.jar"
-        jar="/home/sea/git/9GAG/app/libs/nineoldandroids-2.4.0.jar"
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-2a3dc74e9d2971f04c4f8699d06becac52249394.jar"
+        jar="/home/sea/git/9gag/9GAG/app/libs/nineoldandroids-2.4.0.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="59f19e43354d32de831379c23ce03bb259a4c2b7"/>
     <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/volley-851a8741f197365305b41900dcc1051bf1a2fd0e.jar"
-        jar="/home/sea/git/9GAG/app/libs/volley.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="d57fd9c5dcce9fb775f92d68557370fe891c356b"/>
-    <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/butterknife-5.0.0-19fa3ee7d3629a8b557cd5989585d4a2bb2c917a.jar"
-        jar="/home/sea/git/9GAG/app/libs/butterknife-5.0.0.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="34f9a9915c4ac33f97a9339f4caad41cb02638d8"/>
-    <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/photoviewlibrary-a8050098a8066db7b21fe81bf157af1531fcd437.jar"
-        jar="/home/sea/git/9GAG/app/libs/photoviewlibrary.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="b2c797984dea1adba77508f1fa5a377cc91254c5"/>
-    <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/classes-964a630fc3d76c172bc08d576e8b8f6ab2a9a43c.jar"
-        jar="/home/sea/git/9GAG/app/build/intermediates/exploded-aar/9GAG.extras/ShimmerAndroid/unspecified/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="42e074cfdde1e12f0c0dfa4c8b3fbcc8dc132c8a"/>
-    <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.1-28ecb300f51a7c55cc0c76e2f464d85bdfcc3e2b.jar"
-        jar="/home/sea/git/9GAG/app/libs/universal-image-loader-1.9.1.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f"/>
-    <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/listviewanimations-2.6.0-c1d8d1652eda49a91dc8e2f44d1fc7258f8b4a4d.jar"
-        jar="/home/sea/git/9GAG/app/libs/listviewanimations-2.6.0.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="59351ccb0a1631d30358f6a92749a072f2df7602"/>
-    <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/classes-ced2e001ccf367009547d3e22375f522653362fb.jar"
-        jar="/home/sea/git/9GAG/app/build/intermediates/exploded-aar/com.alexvasilkov/foldable-layout/1.0.1/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="9996a3ab73fb3c6082c13e107e093328a23ec179"/>
-    <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-743f94d1c145594a8a936bf10c2642eccef59808.jar"
-        jar="/home/sea/tools/android/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1c821e1755f8b31258436921e65b09bce22a5afd.jar"
+        jar="/home/sea/tool/adt-bundle-linux-x86-20130917/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
     <item
-        dex="/home/sea/git/9GAG/app/build/intermediates/pre-dexed/debug/gson-2.2.4-ceef6f0019201663075575023bb60b7da9f8d165.jar"
-        jar="/home/sea/git/9GAG/app/libs/gson-2.2.4.jar"
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/butterknife-5.0.0-fb6bbac086e2f4537e7e642f3ec542737013d6b6.jar"
+        jar="/home/sea/git/9gag/9GAG/app/libs/butterknife-5.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="34f9a9915c4ac33f97a9339f4caad41cb02638d8"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/gson-2.2.4-660f281ad2e56e4f611b9c627bda394b704f876f.jar"
+        jar="/home/sea/git/9gag/9GAG/app/libs/gson-2.2.4.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/listviewanimations-2.6.0-a1f7501e0f73d68bdd1f22f9dfcded2b0fa5df20.jar"
+        jar="/home/sea/git/9gag/9GAG/app/libs/listviewanimations-2.6.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.1-4c679940f95809a0391d11f14a9e2a9cd2e41ae4.jar"
+        jar="/home/sea/git/9gag/9GAG/app/libs/universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/volley-ace310a5a4eaa31cd8e78ee5ad4623272ed2dd57.jar"
+        jar="/home/sea/git/9gag/9GAG/app/libs/volley.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d57fd9c5dcce9fb775f92d68557370fe891c356b"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/photoviewlibrary-a40e913c32b58c8966e5b361f08b90ecc53e9167.jar"
+        jar="/home/sea/git/9gag/9GAG/app/libs/photoviewlibrary.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b2c797984dea1adba77508f1fa5a377cc91254c5"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/classes-92a4d8e801a6ceec73e1e5878d9c47b099a97e79.jar"
+        jar="/home/sea/git/9gag/9GAG/app/build/intermediates/exploded-aar/9GAG.extras/ShimmerAndroid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="09b2c17f074c2a6091d755da6c1b5775b5c912c8"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/build/intermediates/pre-dexed/test/debug/classes-42435fa1d910650404ef6ac553014d6a579e9ba9.jar"
+        jar="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="43a47cea30c6369242533f333fd8ac358ca199ec"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/classes-98acdfd02628983d7f827326d77afd443d69fcb3.jar"
+        jar="/home/sea/git/9gag/9GAG/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2"/>
+    <item
+        dex="/home/sea/git/9gag/9GAG/app/build/intermediates/pre-dexed/debug/classes-4e99645cc57f2b46a33e65831e43f875106c793a.jar"
+        jar="/home/sea/git/9gag/9GAG/app/build/intermediates/exploded-aar/com.alexvasilkov/foldable-layout/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9996a3ab73fb3c6082c13e107e093328a23ec179"/>
 
 </pre-dex-items>

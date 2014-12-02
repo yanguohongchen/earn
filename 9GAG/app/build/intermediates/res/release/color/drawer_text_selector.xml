@@ -3,4 +3,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_selected="true" android:color="@android:color/white"/>
     <item android:color="#aaaaaa"/>
-</selector><!-- From: file:/home/sea/git/9GAG/app/src/main/res/color/drawer_text_selector.xml -->
+</selector><!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/color/drawer_text_selector.xml -->

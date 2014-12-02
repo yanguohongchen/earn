@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<issues format="4" by="lint 23.0.2">
+<issues format="4" by="lint 23.0.5">
 
     <issue
         id="GradleDeprecated"
@@ -12,7 +12,7 @@
         errorLine1="apply plugin: &apos;android-library&apos;"
         errorLine2="~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/build.gradle"
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/build.gradle"
             line="1"
             column="1"/>
     </issue>
@@ -36,29 +36,9 @@ Similarly, you can use tools:targetApi=&quot;11&quot; in an XML file to indicate
         errorLine2="                                        ~~~~~~~~~~~~~~~~~~~~~~~~~"
         quickfix="adt">
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/java/com/romainpiel/shimmer/Shimmer.java"
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/java/com/romainpiel/shimmer/Shimmer.java"
             line="125"
             column="41"/>
-    </issue>
-
-    <issue
-        id="OldTargetApi"
-        severity="Warning"
-        message="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details."
-        category="Correctness"
-        priority="6"
-        summary="Checks that the manifest specifies a targetSdkVersion that is recent"
-        explanation="When your application runs on a version of Android that is more recent than your `targetSdkVersion` specifies that it has been tested with, various compatibility modes kick in. This ensures that your application continues to work, but it may look out of place. For example, if the `targetSdkVersion` is less than 14, your app may get an option button in the UI.
-
-To fix this issue, set the `targetSdkVersion` to the highest available value. Then test your app to make sure everything works correctly. You may want to consult the compatibility notes to see what changes apply to each version you are adding support for: http://developer.android.com/reference/android/os/Build.VERSION_CODES.html"
-        url="http://developer.android.com/reference/android/os/Build.VERSION_CODES.html"
-        urls="http://developer.android.com/reference/android/os/Build.VERSION_CODES.html"
-        errorLine1="        targetSdkVersion 19"
-        errorLine2="        ~~~~~~~~~~~~~~~~~~~">
-        <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/build.gradle"
-            line="9"
-            column="9"/>
     </issue>
 
     <issue
@@ -81,7 +61,7 @@ To fix this warning, decide whether your application should support backup, and 
         urls="http://developer.android.com/reference/android/R.attr.html#allowBackup"
         quickfix="adt">
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/AndroidManifest.xml"/>
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/AndroidManifest.xml"/>
     </issue>
 
     <issue
@@ -93,13 +73,13 @@ To fix this warning, decide whether your application should support backup, and 
         summary="Looks for unused resources"
         explanation="Unused resources make applications larger and slow down builds.">
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/drawable-hdpi/ic_launcher.png"/>
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/res/drawable-hdpi/ic_launcher.png"/>
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/drawable-mdpi/ic_launcher.png"/>
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/res/drawable-mdpi/ic_launcher.png"/>
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/drawable-xhdpi/ic_launcher.png"/>
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/res/drawable-xhdpi/ic_launcher.png"/>
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/drawable-xxhdpi/ic_launcher.png"/>
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/res/drawable-xxhdpi/ic_launcher.png"/>
     </issue>
 
     <issue
@@ -111,7 +91,7 @@ To fix this warning, decide whether your application should support backup, and 
         summary="Looks for unused resources"
         explanation="Unused resources make applications larger and slow down builds.">
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/drawable-nodpi/mask.xml"/>
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/res/drawable-nodpi/mask.xml"/>
     </issue>
 
     <issue
@@ -123,7 +103,7 @@ To fix this warning, decide whether your application should support backup, and 
         summary="Looks for unused resources"
         explanation="Unused resources make applications larger and slow down builds.">
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/drawable-nodpi/spot_mask.png"/>
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/res/drawable-nodpi/spot_mask.png"/>
     </issue>
 
     <issue
@@ -137,7 +117,7 @@ To fix this warning, decide whether your application should support backup, and 
         errorLine1="    &lt;string name=&quot;app_name&quot;>Shimmer&lt;/string>"
         errorLine2="            ~~~~~~~~~~~~~~~">
         <location
-            file="/home/sea/git/9GAG/extras/ShimmerAndroid/src/main/res/values/strings.xml"
+            file="/home/sea/git/9gag/9GAG/extras/ShimmerAndroid/src/main/res/values/strings.xml"
             line="2"
             column="13"/>
     </issue>

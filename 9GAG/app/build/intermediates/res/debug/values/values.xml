@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/attrs.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/values/attrs.xml -->
     <eat-comment />
 
     <attr name="SwipeBackLayoutStyle" format="reference" />
-    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/values/colors.xml -->
     <eat-comment />
 
     <color name="black">#000000</color>
@@ -20,7 +20,7 @@
     <color name="light_yellow">#FFF6F7</color>
     <color name="main_bg">#14439C</color>
     <color name="white">#FFFFFF</color>
-    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/attrs.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/values/attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="FoldingMenu">
@@ -39,13 +39,13 @@
         <attr name="barWidth" format="dimension" />
         <attr name="barLength" format="dimension" />
     </declare-styleable>
-    <!-- From: file:/home/sea/git/9GAG/app/build/intermediates/exploded-aar/9GAG.extras/ShimmerAndroid/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/build/intermediates/exploded-aar/9GAG.extras/ShimmerAndroid/unspecified/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="ShimmerView">
         <attr name="reflectionColor" format="color" />
     </declare-styleable>
-    <!-- From: file:/home/sea/git/9GAG/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/res/values/values.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/res/values/values.xml -->
     <eat-comment />
 
     <declare-styleable name="StaggeredGridView">
@@ -58,7 +58,7 @@
         <attr name="grid_paddingTop" format="dimension" />
         <attr name="grid_paddingBottom" format="dimension" />
     </declare-styleable>
-    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/attrs.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/values/attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="SwipeBackLayout">
@@ -73,16 +73,16 @@
         <attr name="shadow_right" format="reference" />
         <attr name="shadow_bottom" format="reference" />
     </declare-styleable>
-    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/integers.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/values/integers.xml -->
     <eat-comment />
 
     <integer name="column_count">1</integer>
-    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <string name="action_refresh">Refresh</string>
@@ -102,7 +102,7 @@
     <string name="pref_title_github">Github</string>
     <string name="the_end">TheEnd</string>
     <string name="view_big_image">View Image</string>
-    <!-- From: file:/home/sea/git/9GAG/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/values/styles.xml -->
     <eat-comment />
 
     <style name="ActionbarOverFlowStyle" parent="@android:style/Widget.Holo.ActionButton.Overflow">

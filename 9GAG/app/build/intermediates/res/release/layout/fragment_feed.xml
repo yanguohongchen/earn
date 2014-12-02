@@ -11,4 +11,4 @@
         app:item_margin="8dp"
         app:column_count="@integer/column_count" />
 </android.support.v4.widget.SwipeRefreshLayout>
-<!-- From: file:/home/sea/git/9GAG/app/src/main/res/layout/fragment_feed.xml -->
+<!-- From: file:/home/sea/git/9gag/9GAG/app/src/main/res/layout/fragment_feed.xml -->
